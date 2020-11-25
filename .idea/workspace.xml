@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="373b0d25-8f23-4459-80a0-241f0e7ca598" name="Default Changelist" comment="ok" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\User\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XGBXJQ8vXaJdfLVTlswFZuJm29" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gr.codehub.database" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DbTesterMySQL">
+    <configuration name="DbTesterMSSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.database.DbTesterMSSQL" />
+      <module name="Database_JDBC_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbTesterMySQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.database.DbTesterMySQL" />
+      <module name="Database_JDBC_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DbTesterMySQL" />
+        <item itemvalue="Application.DbTesterMSSQL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="373b0d25-8f23-4459-80a0-241f0e7ca598" name="Default Changelist" comment="" />
+      <created>1580662588290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580662588290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="271" key="Github.ShareDialog" timestamp="1606318145411">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="544" y="271" key="Github.ShareDialog/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606318145411" />
+    <state width="1323" height="23" key="GridCell.Tab.0.bottom" timestamp="1606330253198">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.bottom/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606318702487" />
+    <state width="1323" height="23" key="GridCell.Tab.0.bottom/0.0.1366.738/0.-768.1360.738@0.0.1366.738" timestamp="1606330253198" />
+    <state width="1323" height="23" key="GridCell.Tab.0.center" timestamp="1606330253197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.center/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606318702486" />
+    <state width="1323" height="23" key="GridCell.Tab.0.center/0.0.1366.738/0.-768.1360.738@0.0.1366.738" timestamp="1606330253197" />
+    <state width="1323" height="23" key="GridCell.Tab.0.left" timestamp="1606330253197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.left/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606318702486" />
+    <state width="1323" height="23" key="GridCell.Tab.0.left/0.0.1366.738/0.-768.1360.738@0.0.1366.738" timestamp="1606330253197" />
+    <state width="1323" height="23" key="GridCell.Tab.0.right" timestamp="1606330253197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.right/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606318702486" />
+    <state width="1323" height="23" key="GridCell.Tab.0.right/0.0.1366.738/0.-768.1360.738@0.0.1366.738" timestamp="1606330253197" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1606318284287">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606318284287" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1606318096337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606318096337" />
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606324113006">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738/0.-768.1360.738@0.0.1366.738" timestamp="1606324113006" />
+    <state x="418" y="220" key="extract.method.dialog" timestamp="1606316377738">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="418" y="220" key="extract.method.dialog/0.0.1366.738/-1104.-1440.2560.1410@0.0.1366.738" timestamp="1606316377738" />
+  </component>
+</project>
