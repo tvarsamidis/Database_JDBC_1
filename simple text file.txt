@@ -2,3 +2,4 @@ Hi this is a simple text file
 and a second one
 and a third one for four in total
 Great!
+Add one more
