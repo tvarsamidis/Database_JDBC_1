@@ -1,5 +1,4 @@
 Hi this is a simple text file
-It has one line
 and a second one
-and a third one for 4 in total
+and a third one for four in total
 Great!
